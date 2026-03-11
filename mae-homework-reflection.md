@@ -1,6 +1,6 @@
 # MAE Homework Reflection
 
-**Heat Transfer (MAE 3240) Homework Reflection**
+**Heat Transfer (MAE 3240) Problem Set 5 Reflection**
 
 ## Reflection
 This assignment helped me better understand how heat transfer concepts connect to real engineering design. Before working through it, I mostly thought of fins as just equations for temperature distribution and efficiency, but this problem made it clearer that they are really design tools used to control temperature and improve performance. Solving the single-fin parts helped me see how assumptions like an insulated tip or one-dimensional conduction simplify the analysis, while the fin array and heater problem showed how those same ideas scale into an actual heat sink system. I also learned the difference between fin effectiveness, fin efficiency, and overall surface efficiency, which was important because each one describes performance in a different way. Part (f) was especially useful because it made me think carefully about thermal resistance networks and how conduction, contact resistance, and convection all work together in a complete system.
