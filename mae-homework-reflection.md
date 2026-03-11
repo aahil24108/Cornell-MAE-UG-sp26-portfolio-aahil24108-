@@ -1,6 +1,5 @@
 # MAE Homework Reflection
 
-## Selected Assignment
 **Heat Transfer (MAE 3240) Homework Reflection**
 
 ## Reflection
